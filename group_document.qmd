@@ -14,10 +14,9 @@ This is my section where i am writing words after another
 
 ## Andrei
 
----
---- {r}
-# this is a comment
----
+```{r}
+x = 3
+```
 
 ## Renia
 
