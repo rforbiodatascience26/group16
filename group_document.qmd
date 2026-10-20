@@ -9,3 +9,9 @@ editor: visual
 ## Andrei
 
 ## Renia
+
+Text text
+
+```{r}
+print('Tak')
+```
