@@ -8,4 +8,9 @@ editor: visual
 
 ## Andrei
 
+---
+--- {r}
+# this is a comment
+---
+
 ## Renia
