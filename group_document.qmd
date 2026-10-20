@@ -14,8 +14,11 @@ This is my section where i am writing words after another
 
 ## Andrei
 
+New text!
+
 ```{r}
 x = 3
+y = 5
 ```
 
 ## Renia
