@@ -12,6 +12,10 @@ This is my section where i am writing words after another
 1 + 1
 ```
 
+# Thea but a bit larger
+
+testtesttest
+
 ## Andrei
 
 ```{r}
