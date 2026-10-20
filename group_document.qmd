@@ -6,6 +6,12 @@ editor: visual
 
 ## Thea
 
+This is my section where i am writing words after another
+
+```{r}
+1 + 1
+```
+
 ## Andrei
 
 ---
@@ -14,3 +20,9 @@ editor: visual
 ---
 
 ## Renia
+
+Text text
+
+```{r}
+print('Tak')
+```
