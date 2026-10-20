@@ -15,3 +15,9 @@ This is my section where i am writing words after another
 ## Andrei
 
 ## Renia
+
+Text text
+
+```{r}
+print('Tak')
+```
